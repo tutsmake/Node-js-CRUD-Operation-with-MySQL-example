@@ -17,3 +17,5 @@ CREATE TABLE customers (
     name VARCHAR(255) NOT NULL,
     email VARCHAR(255) NOT NULL
 );
+
+Read detailed guide = [Node.js Express CRUD Example with MySQL](https://www.tutsmake.com/first-crud-node-express-js-mysql-example?crud-operation)https://www.tutsmake.com/first-crud-node-express-js-mysql-example?crud-operation
