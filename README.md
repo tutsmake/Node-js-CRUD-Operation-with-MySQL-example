@@ -8,3 +8,12 @@ Here are the steps to use it:
 4. Connect Node js Crud app with mysql database by editing lib/db.js
 5. Start Application Server by running npm start
 6. Open browser and type http://127.0.0.1:3000/customers
+
+
+Sql Query to create Database:
+
+CREATE TABLE customers (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL
+);
